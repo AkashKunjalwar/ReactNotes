@@ -1,0 +1,26 @@
+form {
+  width: 60%;
+  margin: 50px auto;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+label {
+  font-size: 25px;
+}
+
+input {
+  height: 50px;
+  width: 100%;
+  font-size: 25px;
+  margin: 20px 0 20px 0;
+  border-radius: 5px;
+}
+
+button {
+  font-size: 25px;
+  padding: 5px;
+  background-color: limegreen;
+  border-radius: 5px;
+}
